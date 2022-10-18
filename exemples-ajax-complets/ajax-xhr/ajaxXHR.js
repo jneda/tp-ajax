@@ -6,7 +6,7 @@ URL à utiliser : https://techy-api.vercel.app/api/json
 // --------------------- MANIPULATION DU DOM -----------------------------------
 
 function initDOM() {
-  // on effece le contenu de l'élément <ul>
+  // on efface le contenu de l'élément <ul>
   resultsListElement.innerHTML = "";
   // on le cache, ainsi que le bouton de réinitialisation
   resultsListElement.style.display = "none";
